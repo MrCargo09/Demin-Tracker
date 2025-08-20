@@ -1,0 +1,14 @@
+denim-tracker/
+ ├─ public/
+ │   ├─ index.html
+ │   ├─ manifest.json
+ │   ├─ service-worker.js
+ │   ├─ icon-192.png
+ │   └─ icon-512.png
+ ├─ src/
+ │   ├─ App.jsx
+ │   ├─ index.css
+ │   ├─ index.js
+ │   └─ serviceWorkerRegistration.js
+ ├─ package.json
+ └─ tailwind.config.js
